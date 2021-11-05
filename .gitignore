@@ -1,0 +1,10 @@
+/node_modules/
+/dist/
+/.vscode/
+.DS_Store
+.replit
+jsconfig.json
+/src/vite-env.d.ts
+/public/
+rollup.config.js
+/scripts/
